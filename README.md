@@ -7,7 +7,7 @@
 
 ```console
 git clone https://github.com/sehid.gur/Germany-SMS-Bomber
-cd Enough-Reborn
+cd Germany-SMS-Bomber
 pip install -r requirements.txt
 python enough.py
 ```
