@@ -6,7 +6,7 @@
 <h2>Setup</h2>
 
 ```console
-git clone https://github.com/seh0o7/Germany-SMS-Bomber
+git clone https://github.com/sehid.gur/Germany-SMS-Bomber
 cd Enough-Reborn
 pip install -r requirements.txt
 python enough.py
